@@ -1,3 +1,4 @@
 # 学习笔记
 
-[关系数据库基础-架构](./rdbs_base/db_arch.md)
+[数据库](./db/)
+[关系数据库基础-架构](./db/rdbs_base/db_arch.md)
