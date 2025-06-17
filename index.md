@@ -1,5 +1,8 @@
 # database
 ## Base
+### 相关术语
+Latching Coupling（锁存耦合）
+
 ### 架构模式
 #### 进程与线程
 
@@ -20,9 +23,15 @@
 
 ### Index
 #### B+Tree
+L&Y 并发算法
+
 #### bitmap
 #### hash
 #### gis
+
+### DDL
+#### ONLINE DDL
+
 ### 存储
 ### Buffer pool
 ### 日志
